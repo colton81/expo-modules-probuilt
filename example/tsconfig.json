@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-probuilt-ui": ["../src/index"],
+      "expo-probuilt-ui/*": ["../src/*"]
+    }
+  }
+}

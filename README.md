@@ -1,4 +1,4 @@
-# expo-probuilt-ui
+# expo-modules-probuilt
 
 Custom modules for ProBuilt Software mobile app in React Native
 
@@ -18,7 +18,7 @@ For bare React Native projects, you must ensure that you have [installed and con
 ### Add the package to your npm dependencies
 
 ```
-npm install expo-probuilt-ui
+npm install expo-modules-probuilt
 ```
 
 ### Configure for Android

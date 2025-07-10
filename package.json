@@ -1,10 +1,11 @@
 {
-  "name": "expo-probuilt-ui",
+  "name": "expo-modules-probuilt",
   "version": "0.1.0",
   "description": "Custom modules for ProBuilt Software mobile app in React Native",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
+    "start": "cd example && npx expo run:ios && npx expo run:android",
     "build": "expo-module build",
     "clean": "expo-module clean",
     "lint": "expo-module lint",
@@ -18,7 +19,7 @@
   "keywords": [
     "react-native",
     "expo",
-    "expo-probuilt-ui",
+    "expo-modules-probuilt",
     "ExpoProbuiltUi"
   ],
   "repository": "https://github.com/ProBuiltSoftware/ERP-ReactNative/ExpoProBuiltUI",

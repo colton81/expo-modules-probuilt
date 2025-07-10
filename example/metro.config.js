@@ -19,7 +19,7 @@ config.resolver.nodeModulesPaths = [
 ];
 
 config.resolver.extraNodeModules = {
-  'expo-probuilt-ui': '..',
+  'expo-modules-probuilt': '..',
 };
 
 config.watchFolders = [path.resolve(__dirname, '..')];

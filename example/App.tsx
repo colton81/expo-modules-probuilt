@@ -1,4 +1,4 @@
-import {BottomSheet } from 'expo-probuilt-ui';
+import {BottomSheet } from 'expo-modules-probuilt';
 import { useState } from 'react'
 import { Button, ScrollView, Text, View } from 'react-native'
 

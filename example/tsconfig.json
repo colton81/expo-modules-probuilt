@@ -3,8 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "expo-probuilt-ui": ["../src/index"],
-      "expo-probuilt-ui/*": ["../src/*"]
+      "expo-modules-probuilt": ["../src/index"],
+      "expo-modules-probuilt/*": ["../src/*"]
     }
   }
 }
